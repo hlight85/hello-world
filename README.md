@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-This readme is now complete.
+This readme is now being edited.
