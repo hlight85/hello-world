@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Practicing with Github
+This readme is now complete.
